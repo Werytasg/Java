@@ -35,4 +35,5 @@ Lab 2-4
 
 Згенерувати pom.xml можна з використанням команди maven (слід виконувати з консолі):
 mvn archetype:generate -DgroupId=ua.lviv.iot -DartifactId=work -Dversion=1.0-SNAPSHOT -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.0 -DinteractiveMode=false
+
 Варіант 83
